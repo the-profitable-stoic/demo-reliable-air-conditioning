@@ -1,0 +1,559 @@
+{
+  "business": {
+    "name": "Reliable Air Conditioning",
+    "phone": "+13053259283",
+    "category": "HVAC company",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's HVAC Experts",
+      "heroSubline": "Reliable Air Conditioning provides top-tier HVAC services throughout South Florida. We tackle Miami's toughest climate challenges with proven expertise.",
+      "aboutTitle": "Decades of Miami HVAC Expertise",
+      "aboutText": [
+        "Reliable Air Conditioning was founded over a decade ago right here in Miami. We saw a need for a dependable HVAC company that understands the unique demands of our local climate and housing stock. From Art Deco buildings in South Beach to modern condos in Brickell, we've serviced it all.",
+        "Our approach is simple: provide honest assessments, deliver quality workmanship, and stand behind our work. We value long-term relationships with our clients, built on trust and reliable service. We don't cut corners – we do the job right the first time.",
+        "We're proud to be part of the Miami community. We actively support local initiatives and strive to minimize our environmental impact. We understand the importance of energy efficiency in our humid climate and offer solutions that save you money while protecting our environment."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "HVAC emergencies don't wait. We're available around the clock to address your urgent needs, ensuring your comfort and safety."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team consists of highly trained and certified HVAC technicians with years of experience in the Miami area. They're equipped to handle any HVAC challenge."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide upfront, transparent pricing with no hidden fees. You'll know exactly what to expect before we begin any work."
+        },
+        {
+          "title": "Quality Workmanship",
+          "description": "We use only the highest quality parts and materials, ensuring lasting performance and reliability. We stand behind our work with a satisfaction guarantee."
+        }
+      ],
+      "ctaHeadline": "Breathe Easier with Reliable Air Conditioning",
+      "ctaSubline": "Contact us today for a free estimate and experience the difference of working with Miami's trusted HVAC experts."
+    },
+    "services": [
+      {
+        "slug": "air-conditioning-repair",
+        "name": "Air Conditioning Repair",
+        "shortDescription": "Fast, reliable AC repair services throughout Miami-Dade County.",
+        "description": "Miami's relentless heat and humidity demand a functioning air conditioning system. When your AC breaks down, you need a prompt and reliable repair service. Reliable Air Conditioning offers comprehensive AC repair services to get your system back up and running quickly.\n\nOur experienced technicians are equipped to diagnose and repair all makes and models of air conditioning systems, from central AC units to ductless mini-splits. We understand the common issues that plague Miami ACs, such as refrigerant leaks, compressor failures, and electrical problems. We use advanced diagnostic tools to pinpoint the problem accurately and provide efficient and cost-effective solutions.\n\nWe prioritize emergency repairs, especially during the peak of summer. Our 24/7 emergency service ensures that you won't have to suffer through the heat for long. We arrive promptly, assess the situation, and provide a clear explanation of the necessary repairs.\n\nWe also offer preventative maintenance services to help avoid costly repairs down the road. Regular maintenance can improve your AC's efficiency, extend its lifespan, and ensure optimal performance. Contact us today to schedule your AC repair or maintenance service.",
+        "process": [
+          "Step 1: Diagnose the problem using advanced diagnostic tools.",
+          "Step 2: Explain the repair options and provide a transparent estimate.",
+          "Step 3: Perform the necessary repairs using high-quality parts.",
+          "Step 4: Test the system to ensure optimal performance and cooling."
+        ],
+        "benefits": [
+          "Fast and reliable repairs",
+          "Experienced and certified technicians",
+          "Transparent pricing with no hidden fees",
+          "24/7 emergency service",
+          "Improved AC efficiency and lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an AC repair request?",
+            "answer": "We offer 24/7 emergency service and strive to respond to all repair requests as quickly as possible, typically within a few hours. During peak season, response times may vary, but we always prioritize urgent situations."
+          },
+          {
+            "question": "What are the signs that my AC needs repair?",
+            "answer": "Common signs include weak airflow, unusual noises, strange odors, inconsistent cooling, and a sudden increase in your energy bill. If you notice any of these issues, it's best to call us for an inspection."
+          },
+          {
+            "question": "Do you offer financing options for AC repairs?",
+            "answer": "We understand that AC repairs can be unexpected expenses. We offer flexible financing options to help you manage the cost. Contact us to discuss your financing needs."
+          }
+        ]
+      },
+      {
+        "slug": "air-conditioning-installation",
+        "name": "Air Conditioning Installation",
+        "shortDescription": "Professional AC installation for homes and businesses in Miami.",
+        "description": "Installing a new air conditioning system in Miami requires careful consideration of factors like home size, insulation, and sun exposure. Reliable Air Conditioning provides expert AC installation services, ensuring that your new system is properly sized and installed for optimal performance and energy efficiency.\n\nWe work with all major brands and models of air conditioning systems, including central ACs, ductless mini-splits, and heat pumps. Our technicians will assess your specific needs and recommend the best system for your budget and cooling requirements. We'll also handle all aspects of the installation process, from removing your old system to connecting the new one and testing its performance.\n\nWe understand the challenges of installing AC systems in Miami's diverse housing stock, from historic Art Deco buildings to modern waterfront condos. We have the experience and expertise to handle any installation, no matter the complexity. We also ensure that all installations comply with local building codes and regulations.\n\nInvesting in a new, energy-efficient AC system can significantly reduce your energy bills and improve your comfort. Contact us today to schedule a free consultation and learn more about our AC installation services.",
+        "process": [
+          "Step 1: Assess your cooling needs and recommend the best system.",
+          "Step 2: Provide a detailed estimate and explain the installation process.",
+          "Step 3: Remove your old system and prepare the installation site.",
+          "Step 4: Install the new system according to manufacturer specifications.",
+          "Step 5: Test the system and ensure optimal performance."
+        ],
+        "benefits": [
+          "Expert sizing and installation",
+          "Energy-efficient systems",
+          "Reduced energy bills",
+          "Improved comfort",
+          "Compliance with local building codes"
+        ],
+        "faq": [
+          {
+            "question": "How do I choose the right AC system for my home?",
+            "answer": "Our technicians will assess your cooling needs and recommend the best system based on factors like home size, insulation, sun exposure, and budget. We'll explain the pros and cons of different systems and help you make an informed decision."
+          },
+          {
+            "question": "How long does AC installation take?",
+            "answer": "The installation time depends on the complexity of the project, but most installations can be completed in one day. We'll provide a more accurate estimate during the consultation."
+          },
+          {
+            "question": "Do you offer warranties on AC installations?",
+            "answer": "Yes, we offer warranties on all AC installations. The warranty period varies depending on the system and manufacturer. We'll provide you with detailed warranty information during the installation process."
+          }
+        ]
+      },
+      {
+        "slug": "duct-cleaning",
+        "name": "Duct Cleaning",
+        "shortDescription": "Improve your indoor air quality with professional duct cleaning services.",
+        "description": "In Miami's humid climate, air ducts can become breeding grounds for mold, dust, and other allergens. Reliable Air Conditioning offers professional duct cleaning services to improve your indoor air quality and create a healthier living environment.\n\nOver time, dust, pollen, pet dander, and mold spores can accumulate in your air ducts, circulating throughout your home every time your AC or heating system runs. This can trigger allergies, asthma, and other respiratory problems. Duct cleaning removes these contaminants, improving your air quality and reducing the risk of health issues.\n\nOur experienced technicians use specialized equipment to thoroughly clean your air ducts, removing dust, debris, and allergens. We also sanitize the ducts to kill mold and bacteria. We take precautions to protect your home during the cleaning process, using drop cloths and vacuuming to minimize dust and mess.\n\nDuct cleaning can also improve the efficiency of your HVAC system. Clean ducts allow for better airflow, reducing strain on your system and lowering your energy bills. Contact us today to schedule your duct cleaning service and breathe easier.",
+        "process": [
+          "Step 1: Inspect the ductwork to assess the level of contamination.",
+          "Step 2: Seal off vents and registers to prevent dust from escaping.",
+          "Step 3: Use specialized equipment to dislodge and remove debris.",
+          "Step 4: Sanitize the ductwork to kill mold and bacteria.",
+          "Step 5: Clean up the work area and restore the system to normal operation."
+        ],
+        "benefits": [
+          "Improved indoor air quality",
+          "Reduced allergens and dust",
+          "Healthier living environment",
+          "Improved HVAC efficiency",
+          "Lower energy bills"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my air ducts cleaned?",
+            "answer": "The frequency of duct cleaning depends on factors like the age of your home, the presence of pets, and the severity of allergies. We recommend having your ducts cleaned every 3-5 years."
+          },
+          {
+            "question": "Can duct cleaning help with allergies?",
+            "answer": "Yes, duct cleaning can significantly reduce allergens in your home, improving your air quality and reducing allergy symptoms."
+          },
+          {
+            "question": "Is duct cleaning messy?",
+            "answer": "We take precautions to protect your home during the cleaning process, using drop cloths and vacuuming to minimize dust and mess. Our technicians are trained to clean your ducts efficiently and with minimal disruption."
+          }
+        ]
+      },
+      {
+        "slug": "hvac-maintenance",
+        "name": "HVAC Maintenance",
+        "shortDescription": "Preventative HVAC maintenance to keep your system running smoothly.",
+        "description": "Regular HVAC maintenance is essential for keeping your system running efficiently and preventing costly repairs. Reliable Air Conditioning offers comprehensive HVAC maintenance services to ensure that your system is operating at its best.\n\nOur maintenance services include cleaning coils, checking refrigerant levels, inspecting electrical components, and lubricating moving parts. We also identify potential problems early on, allowing you to address them before they become major issues. Regular maintenance can extend the lifespan of your HVAC system and improve its energy efficiency.\n\nWe offer customized maintenance plans to meet your specific needs and budget. Our plans include regular inspections, tune-ups, and priority service for repairs. We'll work with you to develop a maintenance schedule that fits your lifestyle and ensures that your HVAC system is always in top condition.\n\nDon't wait until your HVAC system breaks down to call for service. Contact us today to schedule your HVAC maintenance and protect your investment.",
+        "process": [
+          "Step 1: Inspect the system for any signs of damage or wear.",
+          "Step 2: Clean coils and filters to improve airflow.",
+          "Step 3: Check refrigerant levels and add refrigerant if needed.",
+          "Step 4: Inspect electrical components and tighten connections.",
+          "Step 5: Lubricate moving parts to reduce friction."
+        ],
+        "benefits": [
+          "Extended system lifespan",
+          "Improved energy efficiency",
+          "Reduced repair costs",
+          "Optimal system performance",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I schedule HVAC maintenance?",
+            "answer": "We recommend scheduling HVAC maintenance at least once a year, preferably in the spring or fall before the peak heating and cooling seasons."
+          },
+          {
+            "question": "What is included in an HVAC maintenance service?",
+            "answer": "Our HVAC maintenance service includes a comprehensive inspection of your system, cleaning coils and filters, checking refrigerant levels, inspecting electrical components, and lubricating moving parts."
+          },
+          {
+            "question": "Can HVAC maintenance save me money?",
+            "answer": "Yes, regular HVAC maintenance can save you money by improving your system's energy efficiency, reducing the risk of costly repairs, and extending its lifespan."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-hvac-services",
+        "name": "Emergency HVAC Services",
+        "shortDescription": "24/7 emergency HVAC repair services to keep you comfortable.",
+        "description": "HVAC emergencies can happen at any time, day or night. Reliable Air Conditioning offers 24/7 emergency HVAC repair services to ensure that you're never left without heating or cooling when you need it most. Miami heat is no joke, so we know speed is key.\n\nOur experienced technicians are available around the clock to respond to your emergency HVAC needs. We arrive promptly, diagnose the problem quickly, and provide efficient and effective solutions. We understand the urgency of HVAC emergencies and prioritize your comfort and safety.\n\nWhether it's a broken AC in the middle of summer or a malfunctioning heater in the dead of winter, we're here to help. We'll get your system back up and running as quickly as possible so you can get back to your normal routine.\n\nDon't hesitate to call us for emergency HVAC services. We're available 24/7 to assist you.",
+        "process": [
+          "Step 1: Answer your call promptly and dispatch a technician.",
+          "Step 2: Arrive quickly and assess the situation.",
+          "Step 3: Diagnose the problem and explain the repair options.",
+          "Step 4: Perform the necessary repairs to restore your system.",
+          "Step 5: Test the system to ensure optimal performance."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response times",
+          "Experienced technicians",
+          "Efficient repairs",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an HVAC emergency?",
+            "answer": "An HVAC emergency is any situation that poses a threat to your comfort, safety, or health. This includes broken AC in hot weather, malfunctioning heater in cold weather, gas leaks, and carbon monoxide leaks."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to all emergency calls as quickly as possible, typically within a few hours. Our response times may vary depending on the location and the severity of the emergency."
+          },
+          {
+            "question": "What should I do while waiting for the technician to arrive?",
+            "answer": "While waiting for the technician to arrive, ensure your safety by turning off the affected system, ventilating the area, and evacuating if necessary. Follow any instructions provided by our dispatchers."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-hvac",
+        "name": "Commercial HVAC Services",
+        "shortDescription": "Comprehensive HVAC services for businesses in Miami.",
+        "description": "Reliable Air Conditioning provides comprehensive HVAC services for businesses in Miami. We understand the unique needs of commercial properties and offer tailored solutions to ensure optimal comfort and energy efficiency.\n\nOur commercial HVAC services include installation, repair, maintenance, and replacement of all types of HVAC systems. We work with a variety of commercial properties, including office buildings, retail stores, restaurants, and warehouses. We have the experience and expertise to handle any commercial HVAC project, no matter the size or complexity.\n\nWe offer customized maintenance plans to keep your commercial HVAC system running smoothly and prevent costly repairs. Our plans include regular inspections, tune-ups, and priority service for repairs. We'll work with you to develop a maintenance schedule that fits your budget and ensures that your system is always in top condition.\n\nWe also offer energy-efficient HVAC solutions to help you reduce your energy consumption and lower your operating costs. Contact us today to learn more about our commercial HVAC services.",
+        "process": [
+          "Step 1: Assess your commercial HVAC needs and recommend the best solutions.",
+          "Step 2: Provide a detailed estimate and explain the project plan.",
+          "Step 3: Install, repair, or maintain your HVAC system according to industry standards.",
+          "Step 4: Test the system and ensure optimal performance.",
+          "Step 5: Provide ongoing support and maintenance services."
+        ],
+        "benefits": [
+          "Tailored solutions for commercial properties",
+          "Experienced technicians",
+          "Customized maintenance plans",
+          "Energy-efficient solutions",
+          "Reduced operating costs"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial properties do you serve?",
+            "answer": "We serve a variety of commercial properties, including office buildings, retail stores, restaurants, warehouses, and more. We have the experience and expertise to handle any commercial HVAC project."
+          },
+          {
+            "question": "Do you offer financing options for commercial HVAC projects?",
+            "answer": "Yes, we offer financing options for commercial HVAC projects. Contact us to discuss your financing needs."
+          },
+          {
+            "question": "How can I reduce my commercial HVAC energy consumption?",
+            "answer": "We offer energy-efficient HVAC solutions, such as high-efficiency systems, smart thermostats, and building automation systems. We can also recommend energy-saving practices to help you reduce your energy consumption and lower your operating costs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning is proud to serve the residents of Fort Lauderdale, Florida, providing expert HVAC services to keep you comfortable year-round. From the waterfront homes built in the 1960s and 70s to modern condos, we understand the unique challenges of maintaining efficient cooling and heating systems in this coastal city. Our team is experienced in servicing all types of HVAC equipment, ensuring your home stays cool and comfortable, even during the hottest and most humid months.\n\nWe specialize in addressing the specific needs of Fort Lauderdale homes, including salt air corrosion protection and efficient system designs tailored to the local climate. Whether you need a new AC installation, routine maintenance, or emergency repairs, Reliable Air Conditioning is here to provide reliable and affordable service. We're committed to keeping your home comfortable, so you can enjoy all that Fort Lauderdale has to offer.",
+        "localContext": "Fort Lauderdale, known for its extensive canal system and boating scene, experiences year-round heat and humidity, making reliable air conditioning a necessity.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Hollywood",
+          "Wilton Manors"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning is dedicated to providing top-quality HVAC services to the residents of Coral Springs, Florida. As a planned community with homes primarily built in the 1980s and 90s, Coral Springs presents unique HVAC needs, and we're here to meet them with expertise and professionalism. We understand the importance of a reliable and efficient air conditioning system in this year-round warm and humid climate.\n\nOur team is skilled in servicing a wide range of HVAC systems, ensuring your home stays cool and comfortable. We offer comprehensive services, from new installations and routine maintenance to emergency repairs. Trust Reliable Air Conditioning to keep your family comfortable in your Coral Springs home.",
+        "localContext": "Coral Springs, a meticulously planned community, experiences consistent heat and high humidity throughout the year, emphasizing the need for dependable air conditioning.",
+        "nearbyAreas": [
+          "Parkland",
+          "Tamarac",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning is pleased to offer our expert HVAC services to the residents of Pembroke Pines, Florida. Known for its numerous planned developments built in the 1990s and later, Pembroke Pines requires reliable and efficient air conditioning systems to combat the year-round heat and humidity. We are dedicated to providing the highest quality service to keep your home comfortable.\n\nOur experienced technicians are equipped to handle all your HVAC needs, from new installations and regular maintenance to emergency repairs. We understand the specific requirements of Pembroke Pines homes and are committed to providing affordable and reliable solutions. Let Reliable Air Conditioning ensure your family's comfort throughout the year.",
+        "localContext": "Pembroke Pines, characterized by its modern planned developments, endures year-round heat and humidity, making efficient and reliable air conditioning essential for comfortable living.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning provides premier HVAC services to the discerning residents of Boca Raton, Florida. With many luxury waterfront estates, Boca Raton demands high-quality and efficient air conditioning systems to combat the year-round heat and humidity. We are committed to delivering exceptional service and ensuring your comfort.\n\nOur team specializes in servicing high-end HVAC systems, offering everything from new installations and routine maintenance to prompt repairs. We understand the unique needs of Boca Raton homes and are dedicated to providing reliable and professional service. Trust Reliable Air Conditioning to keep your estate comfortable and cool.",
+        "localContext": "Boca Raton, known for its affluent waterfront properties, experiences consistently high temperatures and humidity, making top-tier air conditioning a necessity for maintaining comfortable indoor environments.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Coconut Creek"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning is proud to serve the historic city of West Palm Beach, Florida, providing expert HVAC services to homes of all ages. From the charming 1920s-50s homes to modern residences, we understand the importance of reliable and efficient air conditioning in this year-round warm and humid climate. Our team is committed to keeping your home comfortable.\n\nWe specialize in servicing older HVAC systems, ensuring they run efficiently and effectively. Whether you need a new AC installation, routine maintenance, or emergency repairs, Reliable Air Conditioning is here to provide reliable and affordable service. We're dedicated to keeping your home cool and comfortable, so you can enjoy all that West Palm Beach has to offer.",
+        "localContext": "West Palm Beach, with its rich history and diverse architecture, experiences consistently warm temperatures and high humidity, making dependable air conditioning crucial for maintaining comfortable living spaces.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami Gardens",
+        "slug": "miami-gardens-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning is dedicated to serving the residents of Miami Gardens, Florida, with reliable and affordable HVAC solutions. We understand the importance of a properly functioning air conditioning system in this hot and humid climate, and we're committed to keeping your home comfortable year-round.\n\nOur experienced technicians are equipped to handle all your HVAC needs, from new installations and routine maintenance to emergency repairs. We pride ourselves on providing prompt and professional service to ensure your complete satisfaction. Trust Reliable Air Conditioning to keep your family comfortable in Miami Gardens.",
+        "localContext": "Miami Gardens experiences consistently high temperatures and humidity, making reliable air conditioning a necessity for comfortable living.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hialeah",
+          "Pembroke Pines"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning is pleased to provide top-notch HVAC services to the vibrant community of Hollywood, Florida. With its mix of residential and commercial properties, Hollywood demands reliable and efficient air conditioning systems to combat the year-round heat and humidity. We are committed to delivering exceptional service and ensuring your comfort.\n\nOur team specializes in servicing a wide range of HVAC systems, offering everything from new installations and routine maintenance to prompt repairs. We understand the unique needs of Hollywood homes and businesses and are dedicated to providing reliable and professional service. Trust Reliable Air Conditioning to keep your space comfortable and cool.",
+        "localContext": "Hollywood, a bustling city with a mix of residential and commercial areas, experiences high temperatures and humidity throughout the year, emphasizing the need for dependable air conditioning.",
+        "nearbyAreas": [
+          "Fort Lauderdale",
+          "Miramar",
+          "Hallandale Beach"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Reliable Air Conditioning is proud to offer comprehensive HVAC services to the growing community of Miramar, Florida. As a city with a mix of residential neighborhoods and commercial areas, Miramar residents rely on efficient and dependable air conditioning systems to combat the year-round heat and humidity. We're here to ensure your comfort and satisfaction.\n\nOur team of experienced technicians is equipped to handle all your HVAC needs, from new installations and routine maintenance to emergency repairs. We understand the specific requirements of Miramar homes and businesses and are committed to providing reliable and affordable solutions. Let Reliable Air Conditioning ensure your family or employees stay comfortable all year round.",
+        "localContext": "Miramar, a rapidly growing city in South Florida, experiences consistently high temperatures and humidity, making efficient and reliable air conditioning crucial for comfortable living and working environments.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Miami Gardens"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "AC Repair",
+        "text": "My AC went out during the hottest week of the summer! Reliable Air Conditioning came out within an hour of my call. The technician, David, was professional and quickly diagnosed the problem. He had the parts on hand and fixed it right away. I highly recommend them!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "Ricardo S.",
+        "rating": 4,
+        "service": "Duct Cleaning",
+        "text": "I recently had my ducts cleaned by Reliable Air Conditioning. I was surprised by how much dust and debris they removed. My allergies have improved significantly since then. The team was very thorough and careful.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "AC Installation",
+        "text": "Excellent service from start to finish! They helped me choose the right AC unit for my condo in Brickell and the installation was seamless. The team was professional, efficient, and cleaned up after themselves. I couldn't be happier.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "HVAC Maintenance",
+        "text": "I've been using Reliable Air Conditioning for annual maintenance for years. They are always prompt, reliable, and thorough. Their maintenance service has helped me avoid costly repairs and keep my system running efficiently.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Laura P.",
+        "rating": 4,
+        "service": "Emergency AC Repair",
+        "text": "Had a great experience with their emergency service. Our AC broke down at 10 PM and they were at our house within 45 minutes. The technician was knowledgeable and got the AC running again quickly. Highly recommend for emergencies!",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "service": "Commercial HVAC Maintenance",
+        "text": "We use Reliable Air Conditioning for all our commercial HVAC needs at our restaurant. They are always responsive, reliable, and provide excellent service. Their maintenance plans are a great value and help us keep our system running smoothly.",
+        "date": "2025-02-25"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Miami HVAC Experts | Reliable AC",
+        "description": "Reliable Air Conditioning: Miami's trusted HVAC company. AC repair, installation, maintenance. 24/7 emergency service."
+      },
+      "about": {
+        "title": "About Us | Reliable Air Conditioning",
+        "description": "Learn about Reliable Air Conditioning's commitment to quality HVAC services in Miami. Experienced, reliable, and community-focused."
+      },
+      "services": {
+        "title": "HVAC Services | Miami | Reliable AC",
+        "description": "Comprehensive HVAC services in Miami: AC repair, installation, duct cleaning, maintenance & commercial HVAC. Contact us today!"
+      },
+      "contact": {
+        "title": "Contact Us | Reliable Air Conditioning",
+        "description": "Contact Reliable Air Conditioning for all your HVAC needs in Miami. Get a free estimate and experience our exceptional service."
+      },
+      "reviews": {
+        "title": "Reviews | Reliable Air Conditioning",
+        "description": "Read what our satisfied customers are saying about Reliable Air Conditioning's HVAC services in Miami. See why we're the trusted choice."
+      },
+      "service-areas": {
+        "title": "Service Areas | Reliable Air Conditioning",
+        "description": "Reliable Air Conditioning provides HVAC services throughout Miami-Dade County and surrounding areas. Find out if we serve your neighborhood."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "air-conditioning-repair": "/images/service-air-conditioning-repair.webp",
+      "air-conditioning-installation": "/images/service-air-conditioning-installation.webp",
+      "duct-cleaning": "/images/service-duct-cleaning.webp",
+      "hvac-maintenance": "/images/service-hvac-maintenance.webp",
+      "emergency-hvac-services": "/images/service-emergency-hvac-services.webp",
+      "commercial-hvac": "/images/service-commercial-hvac.webp"
+    },
+    "servicesResponsive": {
+      "air-conditioning-repair": {
+        "src": "/images/service-air-conditioning-repair.webp",
+        "srcset": "/images/service-air-conditioning-repair-400w.webp 400w, /images/service-air-conditioning-repair-800w.webp 800w, /images/service-air-conditioning-repair-1200w.webp 1200w, /images/service-air-conditioning-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "air-conditioning-installation": {
+        "src": "/images/service-air-conditioning-installation.webp",
+        "srcset": "/images/service-air-conditioning-installation-400w.webp 400w, /images/service-air-conditioning-installation-800w.webp 800w, /images/service-air-conditioning-installation-1200w.webp 1200w, /images/service-air-conditioning-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "duct-cleaning": {
+        "src": "/images/service-duct-cleaning.webp",
+        "srcset": "/images/service-duct-cleaning-400w.webp 400w, /images/service-duct-cleaning-800w.webp 800w, /images/service-duct-cleaning-1200w.webp 1200w, /images/service-duct-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hvac-maintenance": {
+        "src": "/images/service-hvac-maintenance.webp",
+        "srcset": "/images/service-hvac-maintenance-400w.webp 400w, /images/service-hvac-maintenance-800w.webp 800w, /images/service-hvac-maintenance-1200w.webp 1200w, /images/service-hvac-maintenance.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-hvac-services": {
+        "src": "/images/service-emergency-hvac-services.webp",
+        "srcset": "/images/service-emergency-hvac-services-400w.webp 400w, /images/service-emergency-hvac-services-800w.webp 800w, /images/service-emergency-hvac-services-1200w.webp 1200w, /images/service-emergency-hvac-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-hvac": {
+        "src": "/images/service-commercial-hvac.webp",
+        "srcset": "/images/service-commercial-hvac-400w.webp 400w, /images/service-commercial-hvac-800w.webp 800w, /images/service-commercial-hvac-1200w.webp 1200w, /images/service-commercial-hvac.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
